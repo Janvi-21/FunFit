@@ -1,2 +1,1 @@
-# FunFit
-A healthcare and fitness website
+# modern-landing-page
